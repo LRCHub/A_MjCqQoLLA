@@ -1,0 +1,288 @@
+{
+  "version": 1,
+  "base_track": "The Beatles - Hey Jude (Official Music Video)",
+  "base_artist": "The Beatles",
+  "createdAt": "2026-03-18T07:41:14.469842Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "The Beatles",
+      "artist": "Devendra Banhart",
+      "has_synced": true,
+      "path": "select/01_The_Beatles_Devendra_Banhart.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "The Beatles",
+      "artist": "Shy Child",
+      "has_synced": true,
+      "path": "select/02_The_Beatles_Shy_Child.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Help - The Beatles Cover",
+      "artist": "Silverstein",
+      "has_synced": true,
+      "path": "select/03_Help_-_The_Beatles_Cover_Silverstein.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "04 - The Beatles - Rain",
+      "artist": "The Beatles",
+      "has_synced": true,
+      "path": "select/04_04_-_The_Beatles_-_Rain_The_Beatles.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Bigger Than The Beatles",
+      "artist": "Joe Diffie",
+      "has_synced": true,
+      "path": "select/05_Bigger_Than_The_Beatles_Joe_Diffie.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Bigger Than The Beatles (Album Version)",
+      "artist": "Joe Diffie",
+      "has_synced": true,
+      "path": "select/06_Bigger_Than_The_Beatles_(Album_Version)_Joe_Diffie.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "I Wanna Be Your Man (Live for Around The Beatles)",
+      "artist": "The Beatles",
+      "has_synced": false,
+      "path": "select/07_I_Wanna_Be_Your_Man_(Live_for_Around_The_Beatles)_The_Beatles.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Shout (Live for Around The Beatles)",
+      "artist": "The Beatles",
+      "has_synced": true,
+      "path": "select/08_Shout_(Live_for_Around_The_Beatles)_The_Beatles.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "I'm Gonna Sit Right Down and Cry (Over You) - Live On Pop Go The Beatles Show, August 8, 1963",
+      "artist": "The Beatles",
+      "has_synced": false,
+      "path": "select/09_I'm_Gonna_Sit_Right_Down_and_Cry_(Over_You)_-_Live_On_Pop_Go_The_Beatles_Show,_A_The_Beatles.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Sure To Fall (In Love With You) - Live At The BBC For \"Pop Go The Beatles\" / 18th June, 1963",
+      "artist": "The Beatles",
+      "has_synced": true,
+      "path": "select/10_Sure_To_Fall_(In_Love_With_You)_-_Live_At_The_BBC_For__Pop_Go_The_Beatles____18t_The_Beatles.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "You Really Got a Hold On Me - Live On Pop Go The Beatles Show, August 13, 1963",
+      "artist": "The Beatles",
+      "has_synced": false,
+      "path": "select/11_You_Really_Got_a_Hold_On_Me_-_Live_On_Pop_Go_The_Beatles_Show,_August_13,_1963_The_Beatles.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "The Hippy Hippy Shake - Live At The BBC For \"Pop Go The Beatles\" / 10th September, 1963",
+      "artist": "The Beatles",
+      "has_synced": false,
+      "path": "select/12_The_Hippy_Hippy_Shake_-_Live_At_The_BBC_For__Pop_Go_The_Beatles____10th_Septembe_The_Beatles.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Twist And Shout - Live At The BBC For \"Pop Go The Beatles\" / 6th August, 1963",
+      "artist": "The Beatles",
+      "has_synced": true,
+      "path": "select/13_Twist_And_Shout_-_Live_At_The_BBC_For__Pop_Go_The_Beatles____6th_August,_1963_The_Beatles.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Please Mr. Postman - Live On Pop Go The Beatles Show, July 30, 1963",
+      "artist": "The Beatles",
+      "has_synced": true,
+      "path": "select/14_Please_Mr._Postman_-_Live_On_Pop_Go_The_Beatles_Show,_July_30,_1963_The_Beatles.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Don't Ever Change - Live On Pop Go The Beatles Show, August 27, 1963",
+      "artist": "The Beatles",
+      "has_synced": false,
+      "path": "select/15_Don't_Ever_Change_-_Live_On_Pop_Go_The_Beatles_Show,_August_27,_1963_The_Beatles.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Kansas City / Hey-Hey-Hey - Live On Pop Go The Beatles Show, August 8, 1963",
+      "artist": "The Beatles",
+      "has_synced": false,
+      "path": "select/16_Kansas_City___Hey-Hey-Hey_-_Live_On_Pop_Go_The_Beatles_Show,_August_8,_1963_The_Beatles.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Lonesome Tears In My Eyes - Live On Pop Go The Beatles Show, July 23, 1963",
+      "artist": "The Beatles",
+      "has_synced": false,
+      "path": "select/17_Lonesome_Tears_In_My_Eyes_-_Live_On_Pop_Go_The_Beatles_Show,_July_23,_1963_The_Beatles.txt"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Ooh! My Arms - Live At The BBC For \"Pop Go The Beatles\" / 27th August, 1963",
+      "artist": "The Beatles",
+      "has_synced": true,
+      "path": "select/18_Ooh!_My_Arms_-_Live_At_The_BBC_For__Pop_Go_The_Beatles____27th_August,_1963_The_Beatles.lrc"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "The Hippy Hippy Shake - Live On Pop Go The Beatles Show, July 30, 1963",
+      "artist": "The Beatles",
+      "has_synced": false,
+      "path": "select/19_The_Hippy_Hippy_Shake_-_Live_On_Pop_Go_The_Beatles_Show,_July_30,_1963_The_Beatles.txt"
+    },
+    {
+      "id": "lrclib_20",
+      "source": "lrclib",
+      "title": "To Know Her Is to Love Her - Live On Pop Go The Beatles Show, August 8, 1963",
+      "artist": "The Beatles",
+      "has_synced": false,
+      "path": "select/20_To_Know_Her_Is_to_Love_Her_-_Live_On_Pop_Go_The_Beatles_Show,_August_8,_1963_The_Beatles.txt"
+    },
+    {
+      "id": "lrclib_21",
+      "source": "lrclib",
+      "title": "The Beatles / Hey Jude",
+      "artist": "The Beatles",
+      "has_synced": false,
+      "path": "select/21_The_Beatles___Hey_Jude_The_Beatles.txt"
+    },
+    {
+      "id": "lrclib_22",
+      "source": "lrclib",
+      "title": "The Beatles - Hey Jude",
+      "artist": "The Beatles",
+      "has_synced": true,
+      "path": "select/22_The_Beatles_-_Hey_Jude_The_Beatles.lrc"
+    },
+    {
+      "id": "lrclib_23",
+      "source": "lrclib",
+      "title": "The Beatles - hey jude",
+      "artist": "The Beatles",
+      "has_synced": false,
+      "path": "select/23_The_Beatles_-_hey_jude_The_Beatles.txt"
+    },
+    {
+      "id": "lrclib_24",
+      "source": "lrclib",
+      "title": "The Beatles - Hey Jude",
+      "artist": "Diverse",
+      "has_synced": true,
+      "path": "select/24_The_Beatles_-_Hey_Jude_Diverse.lrc"
+    },
+    {
+      "id": "lrclib_25",
+      "source": "lrclib",
+      "title": "The Beatles - Hey Jude",
+      "artist": "Various",
+      "has_synced": true,
+      "path": "select/25_The_Beatles_-_Hey_Jude_Various.lrc"
+    },
+    {
+      "id": "lrclib_26",
+      "source": "lrclib",
+      "title": "07 - The Beatles - Hey Jude",
+      "artist": "The Beatles",
+      "has_synced": true,
+      "path": "select/26_07_-_The_Beatles_-_Hey_Jude_The_Beatles.lrc"
+    },
+    {
+      "id": "lrclib_27",
+      "source": "lrclib",
+      "title": "The Beatles - Hey Jude",
+      "artist": "Joana Jorge",
+      "has_synced": false,
+      "path": "select/27_The_Beatles_-_Hey_Jude_Joana_Jorge.txt"
+    },
+    {
+      "id": "lrclib_28",
+      "source": "lrclib",
+      "title": "07 - The Beatles - Hey Jude",
+      "artist": "Beatles",
+      "has_synced": true,
+      "path": "select/28_07_-_The_Beatles_-_Hey_Jude_Beatles.lrc"
+    },
+    {
+      "id": "lrclib_29",
+      "source": "lrclib",
+      "title": "027 - The Beatles - Hey Jude",
+      "artist": "Various Artists",
+      "has_synced": true,
+      "path": "select/29_027_-_The_Beatles_-_Hey_Jude_Various_Artists.lrc"
+    },
+    {
+      "id": "lrclib_30",
+      "source": "lrclib",
+      "title": "0070. The Beatles - Hey Jude",
+      "artist": "VA",
+      "has_synced": true,
+      "path": "select/30_0070._The_Beatles_-_Hey_Jude_VA.lrc"
+    },
+    {
+      "id": "lrclib_31",
+      "source": "lrclib",
+      "title": "0264 - The Beatles - Hey Jude",
+      "artist": "Various Artists",
+      "has_synced": true,
+      "path": "select/31_0264_-_The_Beatles_-_Hey_Jude_Various_Artists.lrc"
+    },
+    {
+      "id": "lrclib_32",
+      "source": "lrclib",
+      "title": "0003 - The Beatles - Hey Jude",
+      "artist": "NDR 2",
+      "has_synced": true,
+      "path": "select/32_0003_-_The_Beatles_-_Hey_Jude_NDR_2.lrc"
+    },
+    {
+      "id": "lrclib_33",
+      "source": "lrclib",
+      "title": "13 - The Beatles - Hey Jude",
+      "artist": "The Beatles",
+      "has_synced": true,
+      "path": "select/33_13_-_The_Beatles_-_Hey_Jude_The_Beatles.lrc"
+    },
+    {
+      "id": "lrclib_34",
+      "source": "lrclib",
+      "title": "The Beatles - Hey Jude",
+      "artist": "V A",
+      "has_synced": true,
+      "path": "select/34_The_Beatles_-_Hey_Jude_V_A.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Hey Jude",
+      "artist": "The Beatles",
+      "has_synced": false,
+      "path": "select/pl_01_Hey_Jude_The_Beatles.txt"
+    }
+  ]
+}
